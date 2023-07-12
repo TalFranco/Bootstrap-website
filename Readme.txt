@@ -1,6 +1,16 @@
-Thanks for downloading this template!
+Project Description
+This project is a Bootstrap-based one page website created for a client.
 
-Template Name: Baker
-Template URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Features
+Utilized Bootstrap framework to create a responsive and visually appealing website.
+Implemented modern design elements to enhance the user experience.
+Incorporated interactive components, such as navigation menus and image carousels.
+Developed a user-friendly interface that ensures smooth navigation and accessibility.
+
+Technologies Used
+HTML
+CSS
+Bootstrap
+
+Credits
+Templet Baker from : https://bootstrapmade.com/ 
